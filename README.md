@@ -1,4 +1,4 @@
-# Car game Using OpenGL :car :blue_car:
+# Car game Using OpenGL :car: :blue_car:
 
 ## Project Description :star:
 
