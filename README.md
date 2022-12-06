@@ -15,6 +15,7 @@ I’ve used NetBeans to implement this project.
 :white_medium_square: Includes Terrain collision detection using barycentric algorithm( No object collision detection)\
 :white_medium_square: Includes a GUI\
 :white_medium_square: Includes Audio\
+:white_medium_square: Includes Day/Night transitions
 
 https://user-images.githubusercontent.com/63718579/205837355-1b00dc68-b3f8-4cf6-baf5-969a6f234f63.mp4
 
