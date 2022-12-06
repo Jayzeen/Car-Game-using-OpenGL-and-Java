@@ -1,0 +1,1 @@
+Incase of getting the error openAL library not found. Copy the OpenAL32.dll and OpenAL64.dll files to System(c)/windows folder
